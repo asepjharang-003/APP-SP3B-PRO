@@ -1,0 +1,7 @@
+{
+  "name": "SP3B Reporting Application",
+  "description": "An advanced financial reporting application for school funds (SP3B) featuring data management, Gemini AI analysis for reports, and visual dashboards.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
